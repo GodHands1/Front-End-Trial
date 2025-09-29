@@ -1,2 +1,2 @@
 # Front-End-Trial
-trying making a front end website
+front end website trial
